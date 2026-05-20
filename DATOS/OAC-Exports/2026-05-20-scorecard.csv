@@ -1,0 +1,13 @@
+sr_fecha,sr_plaza,sr_trafico,sr_ori,sr_des,Facturación€,Total Palets
+2026-05-20,089,Salida,Barcelona,Madrid,1450.50,98
+2026-05-20,089,Llegada,Valencia,Barcelona,980.75,67
+2026-05-20,089,O.Recogida,Barcelona,Lleida,620.25,42
+2026-05-20,283,Salida,Madrid,Barcelona,2100.80,145
+2026-05-20,283,Llegada,Valencia,Madrid,1650.40,110
+2026-05-20,283,O.Recogida,Madrid,Toledo,890.60,58
+2026-05-20,461,Salida,Valencia,Madrid,1875.90,128
+2026-05-20,461,Llegada,Barcelona,Valencia,1420.35,92
+2026-05-20,461,O.Recogida,Valencia,Cuenca,710.20,46
+2026-05-20,129,Salida,Castellón,Barcelona,645.80,44
+2026-05-20,129,Llegada,Valencia,Castellón,520.15,35
+2026-05-20,129,O.Recogida,Castellón,Valencia,380.50,26
